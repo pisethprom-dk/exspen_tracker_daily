@@ -1,0 +1,1 @@
+import{Ga as r,X as i}from"./chunk-DJ5GPWYL.js";var c=(()=>{class e{get color(){return Number(this.negRed)<0?"var(--red)":null}static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275dir=i({type:e,selectors:[["","negRed",""]],hostVars:2,hostBindings:function(t,o){t&2&&r("color",o.color)},inputs:{negRed:"negRed"},standalone:!0})}}return e})();export{c as a};

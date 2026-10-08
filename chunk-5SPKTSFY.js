@@ -1,0 +1,1 @@
+import{Y as i}from"./chunk-DJ5GPWYL.js";var o=(()=>{class t{transform(r){let e=Number(r??0)||0;return(e<0?"-$":"$")+Math.abs(e).toFixed(2)}static{this.\u0275fac=function(e){return new(e||t)}}static{this.\u0275pipe=i({name:"money",type:t,pure:!0,standalone:!0})}}return t})();export{o as a};
